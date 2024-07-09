@@ -8,7 +8,6 @@ Node.js CI
 
 How to run
 Clone the repo, then run using npm.
-git clone https://github.com/chamoda/react-calculator.git && cd react-calculator
 npm install
 npm start
 
